@@ -15,11 +15,11 @@ The number of social media platforms has increased significantly, as well as the
 
   | Source | Selected articles | Year |
   | :-----: | :------------------: | :-----: |
-  | BRACIS  | 43 | 2020 - 2022 |
-  | BraSNAM  | 33 | 2020 - 2022 |
-  | ENIAC  | 49 | 2020 - 2022 |
-  | PROPOR  | 30 | 2020 - 2022 |
-  | STIL  | 31 | 2021 |
+  | [BRACIS](https://link.springer.com/conference/bracis)  | 43 | 2020 - 2022 |
+  | [BraSNAM](https://sol.sbc.org.br/index.php/brasnam/issue/archive)  | 33 | 2020 - 2022 |
+  | [ENIAC](https://sol.sbc.org.br/index.php/eniac/issue/archive)  | 49 | 2020 - 2022 |
+  | [PROPOR](https://link.springer.com/conference/propor)  | 30 | 2020 - 2022 |
+  | [STIL](https://sol.sbc.org.br/index.php/stil/issue/archive)  | 31 | 2021 |
 
  ## Contents
 1. [Preprocessing](coverter_e_preprocessing.ipynb): Conversion of the database from .xlsx to .csv, standardization, and attribute cleaning.
@@ -28,7 +28,7 @@ The number of social media platforms has increased significantly, as well as the
 4. [Datasets](/Datasets): Folder containing the databases composed of the mapped attributes.
 5. [Results](/Results): Folder containing the analysis results.
 
-## Authors: <!-- Gabriele de S. Araújo, Jéssica Brenda P. Leite, Marcelino S. da Silva, Antônio F.L. Jacob Junior, Fábio M.F. Lobato -->
+## Authors <!-- Gabriele de S. Araújo, Jéssica Brenda P. Leite, Marcelino S. da Silva, Antônio F.L. Jacob Junior, Fábio M.F. Lobato -->
 <table>
   <tr>
     <td align="center">
