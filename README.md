@@ -6,7 +6,7 @@
 The number of social media platforms has increased significantly, as well as the number of active users. More than 18.2 million text messages are transmitted every minute on these platforms. Given the amount of data available, Natural Language Processing (NLP) techniques have been used by several researchers to analyze this large amount of unstructured data. Thus, it is essential to understand social media analysis's main trends and challenges. From this perspective, this study presents a systematic mapping of NLP for social media analysis considering papers published in five well-established academic Brazilian events: BRACIS, BraSNAM, ENIAC, STIL, and PROPOR. The study aims to identify the main tools and techniques used, tasks performed, data sources, and evaluation measures. For this purpose, 186 studies were analyzed and carefully selected among the 654 papers published in these events in the three years (2020 to 2022). The results show a glimpse of the current scenario on the subject and point out areas that can be improved in future research with techniques for tasks such as text classification, sentiment analysis, and named-entity recognition. Therefore, this work can be helpful for academics interested in exploring the potential NLP for social media analysis and having a clear view of gaps, challenges, and research opportunities in this area. Nevertheless, it should guide the productive sector in this knowledge transfer, reducing the gap between the state of the art and practice, consequently increasing the competitiveness and innovation of social media analysis tools.
 
 ## Events
-> The article was driven by a systematic mapping of publications in the proceddings of Brazilian scientific events that deal with text mining and social media analysis, specifically in the area of Natural Language Processing (NLP): 
+> The article was driven by a systematic mapping of publications in the proceedings of Brazilian scientific events that deal with text mining and social media analysis, specifically in the area of Natural Language Processing (NLP): 
 - Brazilian Conference on Intelligent Systems (BRACIS)
 - Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)
 - *Encontro Nacional de Inteligência Artificial e Computacional* (ENIAC)
@@ -73,3 +73,9 @@ The number of social media platforms has increased significantly, as well as the
     </td>
   </tr>
 </table>
+
+<!--## Citação
+
+```
+
+``` -->
