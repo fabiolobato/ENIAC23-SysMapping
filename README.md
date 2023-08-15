@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###### This repository contains the database and results of the paper submitted to ENIAC 2023.
 
 # Title: Natural Language Processing and Social Media: a systematic mapping on Brazilian leading events
@@ -25,3 +26,6 @@ The number of social media platforms has increased significantly, as has the num
  ## Contents
 1. [Datasets](https://anonymous.4open.science/r/ENIAC_systematic-mapping-302B/Datasets/Table_SystematicMapping.md): Folder containing the databases composed of the mapped attributes.
 2. [Results](https://anonymous.4open.science/r/ENIAC_systematic-mapping-302B/Results/publications%20per%20year.png): Folder containing results of exploratory data analysis, with graphs and word clouds based on attribute counts.
+=======
+# ENIAC23-SysMapping
+>>>>>>> fd18c07595887cae0c21aaefee3f63ba443cf8c9
