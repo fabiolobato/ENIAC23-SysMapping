@@ -23,7 +23,7 @@ The number of social media platforms has increased significantly, as well as the
 
  ## Contents
 1. [Preprocessing](coverter_e_preprocessing.ipynb): Conversion of the database from .xlsx to .csv, standardization, and attribute cleaning.
-2. [Exploratory Analysis](md0_EDA.ipynb): Exploratory and qualitative analysis of data and generation of graphs.
+2. [Exploratory Analysis](md0_EDA.ipynb): Exploratory analysis of data and generation of graphs.
 3. [Wordcloud](/Wordcloud/WordCloud.ipynb): Word cloud generation from data sources.
 4. [Datasets](/Datasets/Table_SystematicMapping.md): Folder containing the databases composed of the mapped attributes.
 5. [Results](/Results): Folder containing the analysis results.
