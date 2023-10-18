@@ -22,10 +22,10 @@ The number of social media platforms has increased significantly, as well as the
   | [STIL](https://sol.sbc.org.br/index.php/stil/issue/archive)  | 31 | 2021 |
 
  ## Contents
-1. [Preprocessing](coverter_e_preprocessing.ipynb): Conversion of the database from .xlsx to .csv, standardization, and attribute cleaning.
+1. [Preprocessing](coverter_e_preprocessing.ipynb): The database conversion from .xlsx to .csv, standardization, and attribute cleaning.
 2. [Exploratory Analysis](md0_EDA.ipynb): Exploratory analysis of data and generation of graphs.
 3. [Wordcloud](/Wordcloud/WordCloud.ipynb): Word cloud generation from data sources.
-4. [Datasets](/Datasets/Table_SystematicMapping.md): Folder containing the databases composed of the mapped attributes.
+4. [Datasets](/Datasets/Table_SystematicMapping.md): Folder containing the databases comprising the mapped attributes.
 5. [Results](/Results): Folder containing the analysis results.
 
 ## Authors <!-- Gabriele de S. Araújo, Jéssica Brenda P. Leite, Marcelino S. da Silva, Antônio F.L. Jacob Junior, Fábio M.F. Lobato -->
@@ -74,8 +74,14 @@ The number of social media platforms has increased significantly, as well as the
   </tr>
 </table>
 
-<!--## Citação
-
+## Citation 
 ```
-
-``` -->
+@inproceedings{araujo2023natural,
+  title={Natural Language Processing and Social Media: a systematic mapping on Brazilian leading events},
+  author={Ara{\'u}jo, Gabriele de S and Leite, J{\'e}ssica Brenda P and da Silva, Marcelino S and Junior, Antonio FL Jacob and Lobato, F{\'a}bio MF},
+  booktitle={Anais do XX Encontro Nacional de Intelig{\^e}ncia Artificial e Computacional},
+  pages={741--755},
+  year={2023},
+  organization={SBC}
+}
+```
