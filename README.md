@@ -1,4 +1,4 @@
-###### This repository contains the database and results of the paper submitted to ENIAC 2023.
+###### This repository contains the database and article results published at ENIAC 2023.
 
 # Natural Language Processing and Social Media: a systematic mapping on Brazilian leading events
 
